@@ -1,0 +1,4 @@
+mlruns/
+logs.log
+lightning_logs
+obesity_env/
